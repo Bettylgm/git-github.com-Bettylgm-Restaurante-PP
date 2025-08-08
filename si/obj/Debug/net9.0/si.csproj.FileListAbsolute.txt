@@ -1,0 +1,14 @@
+/Users/cosker/Programacion/curso/si/bin/Debug/net9.0/si
+/Users/cosker/Programacion/curso/si/bin/Debug/net9.0/si.deps.json
+/Users/cosker/Programacion/curso/si/bin/Debug/net9.0/si.runtimeconfig.json
+/Users/cosker/Programacion/curso/si/bin/Debug/net9.0/si.dll
+/Users/cosker/Programacion/curso/si/bin/Debug/net9.0/si.pdb
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.AssemblyInfoInputs.cache
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.AssemblyInfo.cs
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.csproj.CoreCompileInputs.cache
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.dll
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/refint/si.dll
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.pdb
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/si.genruntimeconfig.cache
+/Users/cosker/Programacion/curso/si/obj/Debug/net9.0/ref/si.dll
