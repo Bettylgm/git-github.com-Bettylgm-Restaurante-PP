@@ -1,0 +1,14 @@
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.AssemblyInfoInputs.cache
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.AssemblyInfo.cs
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.csproj.CoreCompileInputs.cache
+/Users/cosker/Programacion/curso/Restaurante/bin/Debug/net9.0/Restaurante
+/Users/cosker/Programacion/curso/Restaurante/bin/Debug/net9.0/Restaurante.deps.json
+/Users/cosker/Programacion/curso/Restaurante/bin/Debug/net9.0/Restaurante.runtimeconfig.json
+/Users/cosker/Programacion/curso/Restaurante/bin/Debug/net9.0/Restaurante.dll
+/Users/cosker/Programacion/curso/Restaurante/bin/Debug/net9.0/Restaurante.pdb
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.dll
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/refint/Restaurante.dll
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.pdb
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/Restaurante.genruntimeconfig.cache
+/Users/cosker/Programacion/curso/Restaurante/obj/Debug/net9.0/ref/Restaurante.dll
